@@ -1,9 +1,9 @@
 === Plugin Name ===
 
-Contributors:      ER (ET & RaveMaker)
+Contributors:      ER
 Plugin Name:       ER Swiffy Insert
 Plugin URI:        http://itekblog.com/wordpress-plugins/er-swiffy-insert/
-Author URI:        http://itekblog.com
+Author URI:        http://itekblog.com/
 Author:            ER (ET & RaveMaker)
 Requires at least: 3.0.0
 Tested up to:      3.5.1
