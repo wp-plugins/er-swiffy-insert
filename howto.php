@@ -1,7 +1,7 @@
 <?php  
-/*
+/* 
 ER Swiffy Insert tutorial
-*/
+*/  
 ?>
 <div class="wrap">
 <h1>ER Swiffy Insert tutorial</h1>
