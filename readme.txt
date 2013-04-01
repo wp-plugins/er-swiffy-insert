@@ -1,6 +1,6 @@
 === Plugin Name ===
 
-Contributors:      erithq
+Contributors:      ER
 Plugin Name:       ER Swiffy Insert
 Plugin URI:        http://itekblog.com/wordpress-plugins/er-swiffy-insert/
 Author URI:        http://itekblog.com/
