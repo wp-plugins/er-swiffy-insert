@@ -2,7 +2,7 @@
 /*
 Plugin Name: ER Swiffy Insert
 Plugin URI: http://itekblog.com/wordpress-plugins/er-swiffy-insert/
-Description: <strong>ER Swiffy Insert</strong> is a simple plugin that lets you to use a shortcode to insert animations generated with Google Swiffy. Swiffy converts Flash SWF files to HTML5, allowing you to reuse Flash content on devices without a Flash player (such as iPhones and iPads).
+Description: <strong>ER Swiffy Insert</strong> allows you to use a shortcode to insert animations generated with Google Swiffy. Swiffy converts Flash SWF files to HTML5, allowing you to reuse Flash content on devices without Flash support.
 Version: 1.0.0
 Author: ER (ET & RaveMaker)
 Author URI: http://itekblog.com

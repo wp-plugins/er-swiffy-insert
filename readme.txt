@@ -16,7 +16,7 @@ ER Swiffy Insert allows you to insert HTML5 animations generated with Google Swi
 
 == Description ==
 
-ER Swiffy Insert is a simple plugin that lets you to use a shortcode to insert HTML5 animations generated with Google Swiffy.
+ER Swiffy Insert allows you to use a shortcode to insert HTML5 animations generated with Google Swiffy.
 Swiffy converts Flash SWF files to HTML5, allowing you to reuse Flash content on mobile devices without Flash support.
 
 == Installation ==
