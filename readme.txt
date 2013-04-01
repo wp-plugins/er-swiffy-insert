@@ -1,10 +1,16 @@
 === Plugin Name ===
-Contributors: ER (ET & RaveMaker)
+
+Contributors:      ER (ET & RaveMaker)
+Plugin Name:       ER Swiffy Insert
+Plugin URI:        http://itekblog.com/wordpress-plugins/er-swiffy-insert/
+Author URI:        http://itekblog.com
+Author:            ER (ET & RaveMaker)
+Requires at least: 3.0.0
+Tested up to:      3.5.1
+Stable tag:        1.0.0
+Version:           1.0.0
+License:           GPL3
 Tags: er, html5, swiffy, shortcode, insert, animation, flash, swf, google, tablet, iphone, ipad
-Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 1.0.0
-License: GPL3
 
 ER Swiffy Insert allows you to insert HTML5 animations generated with Google Swiffy.
 
