@@ -15,7 +15,6 @@ Copyright 2013 ER
  *
  * @since 1.0.0
  *
- * @package ER Swiffy Insert
  * @author  ET & RaveMaker
  */
 class ER_Swiffy_Insert {
