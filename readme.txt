@@ -27,7 +27,7 @@ Swiffy converts Flash SWF files to HTML5, allowing you to reuse Flash content on
 
 == Frequently Asked Questions ==
 
-= Is it free?=
+= Is it free? =
 
 Yes! It is completely  free!
 
